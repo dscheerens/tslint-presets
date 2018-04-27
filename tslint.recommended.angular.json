@@ -1,0 +1,41 @@
+{
+    "extends": "./tslint.recommended.json",
+    "rulesDirectory": [
+        "codelyzer"
+    ],
+    "rules": {
+        "angular-whitespace": true,
+        "banana-in-box": true,
+        "component-class-suffix": true,
+        "component-selector": [
+            true,
+            "element",
+            "",
+            "kebab-case"
+        ],
+        "contextual-life-cycle": true,
+        "decorator-not-allowed": true,
+        "directive-class-suffix": true,
+        "directive-selector": [
+            true,
+            "attribute",
+            "",
+            "camelCase"
+        ],
+        "import-destructuring-spacing": true,
+        "no-attribute-parameter-decorator": true,
+        "no-floating-promises": false,
+        "no-input-rename": true,
+        "no-output-named-after-standard-event": true,
+        "no-output-rename": true,
+        "no-unused-css": true,
+        "templates-no-negated-async": true,
+        "use-host-property-decorator": true,
+        "use-input-property-decorator": true,
+        "use-life-cycle-interface": true,
+        "use-output-property-decorator": true,
+        "use-pipe-decorator": true,
+        "use-pipe-transform-interface": true,
+        "use-view-encapsulation": true
+    }
+}
