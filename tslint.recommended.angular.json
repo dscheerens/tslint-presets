@@ -4,6 +4,8 @@
         "codelyzer"
     ],
     "rules": {
+        "no-unnecessary-class": false,
+
         "angular-whitespace": true,
         "banana-in-box": true,
         "component-class-suffix": true,
@@ -24,11 +26,15 @@
         ],
         "import-destructuring-spacing": true,
         "no-attribute-parameter-decorator": true,
+        "no-conflicting-life-cycle-hooks": true,
         "no-floating-promises": false,
         "no-input-rename": true,
+        "no-life-cycle-call": true,
         "no-output-named-after-standard-event": true,
         "no-output-rename": true,
         "no-unused-css": true,
+        "prefer-inline-decorator": true,
+        "prefer-output-readonly": true,
         "templates-no-negated-async": true,
         "use-host-property-decorator": true,
         "use-input-property-decorator": true,
