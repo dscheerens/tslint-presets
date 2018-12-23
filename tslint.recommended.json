@@ -21,11 +21,13 @@
             true,
             "check-space"
         ],
+        "comment-type": false,
         "completed-docs": false,
         "file-name-casing": [
             true,
             "kebab-case"
         ],
+        "increment-decrement": false,
         "interface-name": false,
         "max-classes-per-file": false,
         "max-line-length": [
