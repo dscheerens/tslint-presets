@@ -18,13 +18,13 @@
     "url": "https://github.com/dscheerens/tslint-presets.git"
   },
   "peerDependencies": {
-    "typescript": ">=2.1.0"
+    "typescript": ">=2.9.0"
   },
   "dependencies": {
     "@dscheerens/tslint-rules": "^0.4.0",
     "tslint": "5.11.0"
   },
   "devDependencies": {
-    "typescript": "^2.8.3"
+    "typescript": "^2.9.0"
   }
 }
