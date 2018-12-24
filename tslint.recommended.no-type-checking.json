@@ -15,6 +15,7 @@
         "restrict-plus-operands": false,
         "strict-boolean-expressions": false,
         "strict-type-predicates": false,
+        "unnecessary-bind": false,
         "use-default-type-parameter": false,
         "completed-docs": false,
         "deprecation": false,
