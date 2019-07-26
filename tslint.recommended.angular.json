@@ -7,7 +7,6 @@
         "no-unnecessary-class": false,
 
         "angular-whitespace": true,
-        "banana-in-box": true,
         "component-class-suffix": true,
         "component-selector": [
             true,
@@ -15,8 +14,8 @@
             "",
             "kebab-case"
         ],
+        "contextual-decorator": true,
         "contextual-life-cycle": true,
-        "decorator-not-allowed": true,
         "directive-class-suffix": true,
         "directive-selector": [
             true,
@@ -25,23 +24,32 @@
             "camelCase"
         ],
         "import-destructuring-spacing": true,
-        "no-attribute-parameter-decorator": true,
-        "no-conflicting-life-cycle-hooks": true,
+        "no-attribute-decorator": true,
+        "no-conflicting-life-cycle": true,
         "no-floating-promises": false,
+        "no-host-metadata-property": true,
         "no-input-rename": true,
+        "no-inputs-metadata-property": true,
         "no-life-cycle-call": true,
-        "no-output-named-after-standard-event": true,
+        "no-output-native": true,
+        "no-output-on-prefix": true,
         "no-output-rename": true,
+        "no-outputs-metadata-property": true,
+        "no-queries-metadata-property": true,
         "no-unused-css": true,
         "prefer-inline-decorator": true,
+        "prefer-on-push-component-change-detection": true,
         "prefer-output-readonly": true,
-        "templates-no-negated-async": true,
-        "use-host-property-decorator": true,
-        "use-input-property-decorator": true,
+        "relative-url-prefix": true,
+        "template-banana-in-box": true,
+        "template-no-call-expression": true,
+        "template-no-any": true,
+        "template-no-negated-async": true,
+        "template-use-track-by-function": true,
+        "use-component-selector": true,
+        "use-component-view-encapsulation": true,
         "use-life-cycle-interface": true,
-        "use-output-property-decorator": true,
         "use-pipe-decorator": true,
-        "use-pipe-transform-interface": true,
-        "use-view-encapsulation": true
+        "use-pipe-transform-interface": true
     }
 }

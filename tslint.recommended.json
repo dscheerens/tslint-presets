@@ -52,8 +52,10 @@
         "no-magic-numbers": false,
         "no-non-null-assertion": false,
         "no-null-keyword": false,
+        "no-null-undefined-union": false,
         "no-parameter-properties": false,
         "no-submodule-imports": false,
+        "no-unbound-method": [true, "ignore-static", "allow-typeof"],
         "no-unnecessary-callback-wrapper": false,
         "no-unsafe-any": false,
         "no-unused-variable": false,
@@ -79,6 +81,13 @@
         ],
         "restrict-plus-operands": false,
         "strict-boolean-expressions": false,
+        "strict-comparisons": [
+            true,
+            {
+              "allow-object-equal-comparison": true,
+              "allow-string-order-comparison": false
+            }
+        ],
         "switch-default": false,
         "switch-final-break": false,
         "trailing-comma": false,
