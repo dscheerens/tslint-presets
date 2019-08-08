@@ -1,6 +1,6 @@
 {
   "name": "@dscheerens/tslint-presets",
-  "version": "5.0.1",
+  "version": "6.0.0",
   "description": "Package containing recommended tslint configuration presets",
   "homepage": "https://github.com/dscheerens/tslint-presets",
   "keywords": [
