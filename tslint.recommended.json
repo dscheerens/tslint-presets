@@ -95,6 +95,7 @@
               "allow-string-order-comparison": false
             }
         ],
+        "strict-string-expressions": false,
         "switch-default": false,
         "switch-final-break": false,
         "trailing-comma": false,

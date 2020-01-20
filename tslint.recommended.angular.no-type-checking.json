@@ -12,6 +12,7 @@
         "no-unsafe-any": false,
         "no-unused-variable": false,
         "no-use-before-declare": false,
+        "no-promise-as-boolean": false,
         "no-void-expression": false,
         "restrict-plus-operands": false,
         "strict-boolean-expressions": false,
