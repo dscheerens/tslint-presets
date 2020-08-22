@@ -22,7 +22,7 @@
     "tslint": "~6.1.3"
   },
   "dependencies": {
-    "@dscheerens/tslint-rules": "^0.4.0"
+    "@dscheerens/tslint-rules": "^1.0.0"
   },
   "optionalDependencies": {
     "codelyzer": "~6.0.0"
