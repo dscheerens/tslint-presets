@@ -142,6 +142,7 @@
                 "endWithNewLine": true
             }
         ],
-        "strict-indent-size": true
+        "strict-indent-size": true,
+        "unified-signatures": false
     }
 }
