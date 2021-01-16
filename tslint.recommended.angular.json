@@ -44,7 +44,6 @@
         "template-no-call-expression": true,
         "template-no-any": true,
         "template-no-negated-async": true,
-        "template-use-track-by-function": true,
         "use-component-selector": true,
         "use-component-view-encapsulation": true,
         "use-life-cycle-interface": true,
