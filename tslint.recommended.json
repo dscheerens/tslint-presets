@@ -114,7 +114,7 @@
         "strict-string-expressions": false,
         "switch-default": false,
         "switch-final-break": false,
-        "trailing-comma": false,
+        "trailing-comma": [true, { "multiline": "always", "singleline": "never", "esSpecCompliant": true }],
         "typedef": [
             true,
             "call-signature",
